@@ -4,7 +4,7 @@
 #
 Name     : cotyledon
 Version  : 1.7.3
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/69/73/297dd1993288be157e5e48b7d22de4e708a2d2513e376b328c900be272d9/cotyledon-1.7.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/69/73/297dd1993288be157e5e48b7d22de4e708a2d2513e376b328c900be272d9/cotyledon-1.7.3.tar.gz
 Summary  : Cotyledon provides a framework for defining long-running services.
@@ -65,7 +65,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1552140923
+export SOURCE_DATE_EPOCH=1552141227
 export LDFLAGS="${LDFLAGS} -fno-lto"
 export MAKEFLAGS=%{?_smp_mflags}
 python3 setup.py build
