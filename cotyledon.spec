@@ -4,7 +4,7 @@
 #
 Name     : cotyledon
 Version  : 1.7.3
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/69/73/297dd1993288be157e5e48b7d22de4e708a2d2513e376b328c900be272d9/cotyledon-1.7.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/69/73/297dd1993288be157e5e48b7d22de4e708a2d2513e376b328c900be272d9/cotyledon-1.7.3.tar.gz
 Summary  : Cotyledon provides a framework for defining long-running services.
